@@ -1,6 +1,5 @@
 # Proyecto Visual Precipitaciones
 
-![heatmap](https://github.com/borjadola/Proyecto_visual_precipitaciones/assets/132678800/d3da3bcf-70c3-47f9-9bd0-f15dbcb8658b)
 
 ## Descripción del proyecto:
 
